@@ -35,6 +35,7 @@ Provides reusable presentational building blocks that keep the visual language o
 | Package ID | `ui-kit` |
 | Display Name | UI Kit |
 | Import Name | `@platform/ui-kit` |
+| Canonical Namespace Target | `@gutu/ui-kit` |
 | Version | `0.1.0` |
 | UI Surface | Mixed runtime helpers |
 | Consumption Model | Imports + typed UI primitives |
@@ -48,6 +49,7 @@ Provides reusable presentational building blocks that keep the visual language o
 | Dev Dependencies | None |
 | React Runtime | Yes |
 | Workspace Scoped | No |
+| Legacy Compatibility IDs | `@platform/ui-kit` |
 
 ### Dependency interpretation
 

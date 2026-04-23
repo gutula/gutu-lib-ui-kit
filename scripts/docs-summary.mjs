@@ -3,6 +3,7 @@ const summary = {
   "repoName": "gutu-lib-ui-kit",
   "packageId": "ui-kit",
   "displayName": "UI Kit",
+  "packageCount": 1,
   "group": "UI Foundation",
   "maturity": "Hardened",
   "description": "Shared Radix and shell primitives.",
